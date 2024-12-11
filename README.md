@@ -43,4 +43,4 @@ https://vimeo.com/1038347410
 
 
 ## Réalisé par 
-Loubna azerbi - ILMSI 2024 - projet Node js
+Loubna azerbi - ILMSI 2024 - projet JEE
