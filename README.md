@@ -4,7 +4,10 @@
 Ce projet permet aux bibliothécaires de gérer efficacement les livres disponibles, les emprunts effectués par les utilisateurs, ainsi que les retours. 
 L’objectif principal était de créer une plateforme simple d’utilisation tout en offrant une gestion robuste et fiable des données.
 
-## Fonctionnalités **
+## Vidéo démonstrative : 
+https://vimeo.com/1038347410
+
+## Fonctionnalités 
 - **Gestion des livres:** 
   * Ajouter, modifier et supprimer des livres.
   * Afficher une liste des livres disponibles avec des informations telles que le titre, l'auteur, la catégorie et la disponibilité.
